@@ -1,5 +1,10 @@
 This is a Next.js app set up with prettier, and prettier-tailwind.
 
+To use this:
+  1) Run the official create-next-app to get the latest version of a NextJs app.
+  2) Copy the devDependencies in package.json and the whole .eslintrc.json to your newly generated backbone.
+  3) Enjoy.
+
 ## Getting Started
 
 First, run the development server:
