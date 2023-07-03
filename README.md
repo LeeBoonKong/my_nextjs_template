@@ -5,6 +5,8 @@ To use this:
   2) Copy the devDependencies in package.json and the whole .eslintrc.json to your newly generated backbone.
   3) Enjoy.
 
+Note: If your are not using Tailwind for your project, you can remove prettier-tailwind from .eslintrc.json
+
 ## Getting Started
 
 First, run the development server:
