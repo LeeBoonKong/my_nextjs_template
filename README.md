@@ -14,3 +14,17 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+To format your code:
+```
+npx prettier --write .
+```
+or
+```
+npx prettier --write [file/folder path]
+```
+
+To format your code based on code quality:
+```
+npx eslint src/**
+```
